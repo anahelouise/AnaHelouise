@@ -25,16 +25,16 @@ Sou uma **Desenvolvedora Front-End**. Minha jornada na tecnologia é impulsionad
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
 ## 🚧 **Atualmente Aprendendo**
 
-- **React.js**: Conceitos avançados e melhores práticas
 - **Python & Java**: Expandindo meu conhecimento em programação
-- **Gestão de Bancos de Dados**: SQL, NoSQL
-- **Desenvolvimento Back-End**: Noções básicas de Node.js
+- **Gestão de Bancos de Dados**: SQL
+- **Desenvolvimento Back-End**: Noções básicas
 - **Gestão de Projetos**: Metodologia Scrum
 
 ---
