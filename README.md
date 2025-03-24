@@ -32,7 +32,7 @@ Sou uma **Desenvolvedora Front-End**. Minha jornada na tecnologia é impulsionad
 
 ## 🚧 **Atualmente Aprendendo**
 
-- **Python & Java**: Expandindo meu conhecimento em programação
+- **Python**: Expandindo meu conhecimento em programação
 - **Gestão de Bancos de Dados**: SQL
 - **Desenvolvimento Back-End**: Noções básicas
 - **Gestão de Projetos**: Metodologia Scrum
